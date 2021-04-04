@@ -1,0 +1,78 @@
+{
+    "id": 0,
+    "title": "Lakefront West Park",
+    "description": "This park offers fully accessible views of Lake Ontario via the Waterfront Trail.  The main feature of this park is the grouping of eight Class A ball diamonds designed for adult-slo-pitch league rentals, which include access to changerooms and field lighting.  There is an arena facility adjacent to the park.",
+    "hours": "April 1 to October 31: 6:00 a.m. to 10:00 p.m. November 1 to March 31: 6:00 a.m. to 6:00 p.m.",
+    "coordinates": {
+        "lat": 76.23842509683367,
+        "lng": 59.92679357528687,
+        "zoom": 8
+    },
+    "images": [""
+    ],
+    "amenities": [
+        {
+            "type": "",
+            "title": "Parking",
+            "coordinates": {
+                "lat": 76.37107239210619,
+                "lng": 60.98309040069581,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "",
+            "title": "Lakeside Seating",
+            "coordinates": {
+                "lat": 76.14131128214585,
+                "lng": 58.62266063690186,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parks and Rec",
+            "title": "Ball Diamonds West",
+            "coordinates": {
+                "lat": 76.22674137637667,
+                "lng":60.093262195587165,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parks and Rec",
+            "title": "Ball Diamonds East",
+            "coordinates": {
+                "lat": 76.20339335787128,
+                "lng": 61.15830302238465,
+                "zoom": 8
+            }
+        },
+		{
+			"type": "Lookout",
+			"title": "Gold Point Marsh Bridge",
+			"coordinates": {
+				"lat": 76.12971647226621,
+				"lng": 62.03078269958497,
+				"zoom": 8
+			}
+		},
+		{
+			"type": "Lookout",
+			"title": "Lake Ontario Lookout Station",
+			"coordinates": {
+				"lat": 76.03893187064064,
+				"lng": 60.80650448799134,
+				"zoom": 8
+			}
+		},
+		{
+			"type": "Nature Area",
+			"title": "Carolinian Forest",
+			"coordinates": {
+				"lat": 76.06428143175889,
+				"lng": 61.35937213897706,
+				"zoom": 8
+			}
+		}
+	]	
+},

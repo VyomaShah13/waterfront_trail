@@ -1,0 +1,220 @@
+
+{
+    "id": 0,
+    "title": "Lakeview Park",
+    "description": "Oshawa's largest lakefront park is situated on 44 acres of the original Henry family farm lands. The Henry family's farmhouse is one of the Oshawa Museum's three historic homes on site.  There are numerous soccer fields and baseball diamonds available to rent.  There are also eight picnic areas availble to rent for gatherings of over 20 people.  The park is host to the city's annual Canada Day celebrations.",
+    "hours": "April 1 to October 31 - 6:00 a.m. to 10:00 p.m. November 1 to March 31 - 6:00 a.m. to 6:00 p.m.",
+    "coordinates": {
+        "lat": 77.2206859149954,
+        "lng": 76.48282527923585,
+        "zoom": 8
+    },
+    "images": [
+		"",
+    ],
+    "amenities": [
+		{
+            "type": "Parks and Rec",
+            "title": "Lakeview Park Playground and Splash Pad",
+            "coordinates": {
+                "lat": 77.3213440183962,
+                "lng":  76.9014859199524,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Picnic Area",
+            "title": "Lakeview Park Picnic Shelter",
+            "coordinates": {
+                "lat": 77.2270682017343,
+                "lng":  76.12890243530275,
+                "zoom": 8
+            }
+        },
+        {
+            "type": "Parks and Rec",
+            "title": "Jim Lutton Legion Ball Diamond #1",
+            "coordinates": {
+                "lat": 77.37630514958651,
+                "lng":  76.14074707031251,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parks and Rec",
+            "title": "Ted McComb Ball Diamond #3",
+            "coordinates": {
+                "lat": 77.33542270625625,
+                "lng":  74.70703125000001,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parks and Rec",
+            "title": "Kluane Ave. Soccer Fields",
+            "coordinates": {
+                "lat": 77.11558225448707,
+                "lng":  74.95422363281251,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parks and Rec",
+            "title": "Lakeview Park Ave. Soccer Fields",
+            "coordinates": {
+                "lat": 77.46722053896585,
+                "lng":  75.63537597656251,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Rental",
+            "title": "Jubilee Pavillion Banquet and Conference Centre",
+            "coordinates": {
+                "lat": 77.31931873580899,
+                "lng":  76.49297475814821,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Eating",
+            "title": "The Jube Pub and Patio",
+            "coordinates": {
+                "lat": 77.31449445597491,
+                "lng":  76.7017149925232,
+                "zoom": 8
+            }
+        },
+        {
+            "type": "Parks and Rec",
+            "title": "Oshawa Community Museum and Archives",
+            "coordinates": {
+                "lat": 77.39685684677058,
+                "lng": 76.86642408370972,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parks and Rec",
+            "title": "Lakeview Park Beach",
+            "coordinates": {
+                "lat": 77.47839069699992,
+                "lng": 77.80489683151247,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parks and Rec",
+            "title": "Beach Volleyball Courts",
+            "coordinates": {
+                "lat": 77.47481731271438,
+                "lng": 77.78292417526247,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Lookout",
+            "title": "Lakeview Park Pier",
+            "coordinates": {
+                "lat": 77.44319947677188,
+                "lng": 78.70292186737062,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Lookout",
+            "title": "Nelson Mandela Point Gazebo",
+            "coordinates": {
+                "lat": 77.0502710660495,
+                "lng": 75.85036039352418,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Lookout",
+            "title": "East Gazebo",
+            "coordinates": {
+                "lat": 77.35948694887146,
+                "lng": 77.22839355468751,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parking",
+            "title": "Ball Diamond Parking",
+            "coordinates": {
+                "lat": 77.35948694887146,
+                "lng": 75.82214355468751,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parking",
+            "title": "Picnic Area Parking",
+            "coordinates": {
+                "lat": 77.27264458480923,
+                "lng": 75.9814453125,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parking",
+            "title": "Museum and Pavillion Parking",
+            "coordinates": {
+                "lat": 77.38470599304453,
+                "lng": 76.640625,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parking",
+            "title": "Simcoe Entrance Parking",
+            "coordinates": {
+                "lat": 77.39070322794626,
+                "lng": 76.60217285156251,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Parking",
+            "title": "Beach Parking",
+            "coordinates": {
+                "lat": 77.50887250081442,
+                "lng": 77.71179199218751,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Washrooms",
+            "title": "Main Washroom Building",
+            "coordinates": {
+                "lat": 77.28353188908653,
+                "lng": 76.38793945312501,
+                "zoom": 8
+            }
+        },
+		{
+            "type": "Washrooms",
+            "title": "Beach Washroom Building",
+            "coordinates": {
+                "lat": 77.45648796281547,
+                "lng": 77.508544921875,
+                "zoom": 8
+            }
+        },
+		
+    ]
+},
+{
+    "id": 0,
+    "title": "Ed Broadbent Park",
+    "description": "This park has future development plans but is currently an open green space backdrop to the Larry Ladd Harbour Trail.  Ed Broadbent was Oshawa's elected member of the House Of Commons for 22 years, from 1968 to 1990.",
+    "hours": "April 1 to October 31 - 6:00 a.m. to 10:00 p.m. November 1 to March 31 - 6:00 a.m. to 6:00 p.m.",
+    "coordinates": {
+        "lat": 77.88695730740811,
+        "lng": 75.75214862823486,
+        "zoom": 8
+    },
+    "images": [""
+    ]
+},
