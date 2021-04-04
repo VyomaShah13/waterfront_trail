@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://projects.vyomashah.com/waterfront_trail/",
+  "homepage": "http://projects.vyomashah.com/waterfront_trail/app/",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.1",

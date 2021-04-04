@@ -1,0 +1,18 @@
+/* Mobile frame */
+#frame-body{
+    background: #fff;
+
+}
+#mobile-container{
+    background: url(mobile.png) no-repeat center;
+    height: 680px;
+    background-size: contain;
+    text-align: center;
+    padding-top: 74px;
+}
+
+#mobile-container iframe{
+    width: 341px;
+    height: 605px;
+    background-color: #fff;
+}
