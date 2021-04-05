@@ -1,11 +1,52 @@
 /* Mobile frame */
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
 #frame-body{
     background: #fff;
-
+    display: flex;
+    align-items: center;
+    height: 100vh;
 }
+.branding{
+    width: 40%;
+}
+
+.app-container{
+    width: 60%;
+}
+
+.branding{
+    background-color: #f3f3f3;
+    text-align: center;
+    height: 100vh;
+}
+
+.watertrail-logo {
+    padding: 12vh 0;
+}
+
+.watertrail-logo img{
+    max-width: 300px;
+}
+
+.teaching-logo img, .work-with-logo img{
+    max-width: 150px;
+}
+
+.work-with-logo img {
+    margin: 0 20px;
+}
+
 #mobile-container{
-    background: url(mobile.png) no-repeat center;
-    height: 680px;
+    background: url(images/mobile.png) no-repeat center;
+    height: 750px;
     background-size: contain;
     text-align: center;
     padding-top: 74px;
@@ -15,4 +56,20 @@
     width: 341px;
     height: 605px;
     background-color: #fff;
+}
+
+@media only screen and (max-width: 991px) {
+    #frame-body{
+        display: block;
+    }
+    
+    .branding, .app-container{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .watertrail-logo {
+        padding: 9vh 0;
+    }
+
 }

@@ -2,14 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" href="app/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Oshawa Waterfront Trail</title>
     <!-- link to css files -->
     <link rel="stylesheet" href="main.css">
 </head>
 <body id="frame-body">
-    <div id="mobile-container">
-        <iframe id="app" src="app/" width="341" height="605" frameborder="0" scrolling="no"></iframe>
+    <div class="branding">
+        <div class="watertrail-logo">
+            <img src="images/waterfront-trail.png" alt="Waterfront Trail" />
+        </div>
+        <div class="teaching-logo">
+            <img src="images/teaching_city.png" alt="Teaching City" />
+        </div>
+        <div class="work-with-logo">
+            <img src="images/oshawa.png" alt="Oshawa City" />
+            <img src="images/dc.png" alt="Durham College" />
+        </div>
+    </div>
+    <div class="app-container">
+        <div id="mobile-container">
+            <iframe id="app" src="app/" width="341" height="605" frameborder="0" scrolling="no"></iframe>
+        </div>
     </div>
 </body>
 </html>
