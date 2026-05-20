@@ -1,3 +1,3 @@
 Oshawa Waterfront Trail
 
-Working Project : projects.vyomashah.com/waterfront_trail/
+Detail - Waterfront Trail Wayfinding Tool - Durham College
